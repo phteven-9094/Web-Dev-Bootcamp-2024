@@ -1,4 +1,4 @@
-### HTML Next Steps and Semantics
+# HTML Next Steps and Semantics
 
 ## What is HTML5?
 
